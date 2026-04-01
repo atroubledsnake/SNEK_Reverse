@@ -1,0 +1,42 @@
+SNEK Reverse Non-Resale License (SR-NR-1.0)
+
+Copyright (c) 2026-present ATroubledSnake & the SNEK initiative
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, and distribute the Software, subject to
+the following conditions:
+
+1. No resale
+   You may not sell, rent, lease, license for a fee, or otherwise commercialize
+   the Software or any Derivative Works as a product. This includes selling
+   copies, paid downloads, paid license keys, or bundling the Software as part
+   of a product where access to the Software is conditioned on payment.
+
+2. Free redistribution
+   You may redistribute the Software and Derivative Works, in source or binary
+   form, provided that redistribution is free of charge and you include this
+   license text and the copyright notice in all copies.
+
+3. Attribution
+   You must keep the copyright notice intact in the Software and Derivative
+   Works. You may add your own copyright notices for your contributions.
+
+4. Paid services allowed
+   You may charge for services related to the Software (such as consulting,
+   custom development, training, audits, or support), provided you do not
+   charge for a license to the Software itself.
+
+The Software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the Software or the use or other dealings in the
+Software.
+
+Additional notes:
+- The threading module under /src/threading/ is separately licensed under the
+  MIT License (see LICENSE_THREADING or the headers in those files).
+

@@ -1,0 +1,15 @@
+/target/
+/snek_projects/
+
+/Snek_Reverse_src/
+/Snek_Reverse_src.zip
+/cloc-*.exe
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
