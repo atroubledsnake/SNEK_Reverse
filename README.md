@@ -210,7 +210,7 @@ SNEK Reverse does analysis work in the background so the GUI stays responsive.
 
 Some heavy views are intentionally “export-driven” (text buffers) so you can search/copy quickly without waiting for complex UI widgets to render thousands of rows.
 
-## Project structure (high level)
+## Project structure
 
 The repo is split into layers:
 
